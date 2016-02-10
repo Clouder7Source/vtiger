@@ -1,5 +1,7 @@
 # vtiger
-Extend functions to CRM Vtiger 6, without lose core update functionality.
+Extend functions to CRM Vtiger 6
+
+> Without losing the integrity of the core
 
 ## Features
 
