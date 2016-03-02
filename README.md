@@ -10,7 +10,7 @@ Extend functions to CRM Vtiger 6
 
 ## Install
 
-1. Upload files of src folder of this repo in your ROOT_PATH Vtiger folder.
+1. Upload and extract the last release file of this repo in your ROOT_PATH Vtiger folder.
 2. Go to `http://<VTIGER_URL>/registerWorkflowCustomFunction.php` to register workflow custom functions
 
 ## Usage
