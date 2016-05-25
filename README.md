@@ -19,7 +19,7 @@ Extend functions to CRM Vtiger 6
 
 #### Update last modified date when a comment is added
 
-1. Create a new comment workflow
+1. Create a new comment workflow. With empty conditions.
 2. In Task section add a "Invoke Custom Function" action
 3. Register a title and select "Update last modified date when a comment is added"
 
